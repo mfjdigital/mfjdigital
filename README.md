@@ -1,6 +1,6 @@
 ## Hi, I'm Mariano 👋🏽
 
-- 👨🏻‍💻 _frontend developer_
+- 👨🏻‍💻 _frontend designer_
 
 
 ## About me...
