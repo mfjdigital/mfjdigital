@@ -1,4 +1,4 @@
-## Hi, I'm Mariano 👋🏽
+## Hi, I'm Mariano Fernández 👋🏽
 
 - 👨🏻‍💻 _frontend designer_
 
@@ -12,8 +12,8 @@ const mfjdigital = {
   links: [
     {
       web: "marianofernandez.com",
-      linkedin: "https://www.linkedin.com/in/mfjdigital",
-      instagram: "https://www.instagram.com/mfjdigital",
+      linkedin: "linkedin.com/in/mfjdigital",
+      github: "github.com/mfjdigital",
     },
   ],
 };
